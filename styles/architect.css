@@ -225,6 +225,11 @@ padding: 30px;
 }
 .ten-years-badge{
   position: static;
+  position: static;
+  max-width: 266px;
+  text-align: center;
+  height: 174px;
+
 }
 
 
